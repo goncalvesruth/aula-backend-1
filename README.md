@@ -3,4 +3,4 @@
 
 **turma:** Técnico Desenvolvimento de Sistemas - 2A
 
-**O que eu espero aprender:** Espero conseguir dominar o controle de versão com Git
+**O que eu espero aprender:** Espero conseguir dominar o controle de versão com Git.
